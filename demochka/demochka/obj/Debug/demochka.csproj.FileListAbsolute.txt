@@ -1,0 +1,14 @@
+C:\Users\Ульяна\OneDrive\Desktop\Учеба\demochka\demochka\obj\Debug\demochka.csproj.AssemblyReference.cache
+C:\Users\Ульяна\OneDrive\Desktop\Учеба\demochka\demochka\obj\Debug\demochka.LoginForm.resources
+C:\Users\Ульяна\OneDrive\Desktop\Учеба\demochka\demochka\obj\Debug\demochka.Properties.Resources.resources
+C:\Users\Ульяна\OneDrive\Desktop\Учеба\demochka\demochka\obj\Debug\demochka.csproj.GenerateResource.cache
+C:\Users\Ульяна\OneDrive\Desktop\Учеба\demochka\demochka\obj\Debug\demochka.csproj.CoreCompileInputs.cache
+C:\Users\Ульяна\OneDrive\Desktop\Учеба\demochka\demochka\bin\Debug\demochka.exe.config
+C:\Users\Ульяна\OneDrive\Desktop\Учеба\demochka\demochka\bin\Debug\demochka.exe
+C:\Users\Ульяна\OneDrive\Desktop\Учеба\demochka\demochka\bin\Debug\demochka.pdb
+C:\Users\Ульяна\OneDrive\Desktop\Учеба\demochka\demochka\obj\Debug\demochka.exe
+C:\Users\Ульяна\OneDrive\Desktop\Учеба\demochka\demochka\obj\Debug\demochka.pdb
+C:\Users\Ульяна\OneDrive\Desktop\Учеба\demochka\demochka\obj\Debug\demochka.exe.config
+C:\Users\Ульяна\OneDrive\Desktop\Учеба\demochka\demochka\obj\Debug\demochka.orders.resources
+C:\Users\Ульяна\OneDrive\Desktop\Учеба\demochka\demochka\obj\Debug\demochka.PVZ.resources
+C:\Users\Ульяна\OneDrive\Desktop\Учеба\demochka\demochka\obj\Debug\demochka.Tovar.resources
